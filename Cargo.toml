@@ -1,0 +1,7 @@
+[package]
+name = "term"
+version = "0.1.0"
+authors = ["paul wisehart <paul@oldcode.org>"]
+edition = "2018"
+
+[dependencies]
